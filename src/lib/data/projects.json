@@ -1,0 +1,132 @@
+{
+  "projects": [
+    {
+      "title": "Musterm (API)",
+      "desc": "Musterm is a website that serves as a Digital Dictionary of Medical Terminology for the Musculoskeletal System. It provides information on the body's system consisting of muscles, bones, joints, and other connective tissues.",
+      "image": "musterm.png",
+      "tech": "FastAPI",
+      "url": {
+        "github": "https://github.com/BlutzerZ/MustermBE",
+        "live": "https://musterm.com"
+      }
+    },
+    {
+      "title": "Larazer",
+      "desc": "Larazer is an organizational management system. This system will assist administrators in managing members and programs effectively.",
+      "image": "larazer.png",
+      "tech": "Laravel",
+      "url": {
+        "github": "https://github.com/ThisSurya/laravel-organizer"
+      }
+    },
+    {
+      "title": "Educa",
+      "desc": "Educa is a platform for learning courses on accounting. This allows for adding, editing, and deleting courses. It features admin and user roles, as well as a file upload functionality for course assignments.",
+      "image": "educa.png",
+      "tech": "Flask",
+      "url": {
+        "github": "https://github.com/BlutzerZ/SiCourse"
+      }
+    },
+    {
+      "title": "SiDemit",
+      "desc": "Sidemit is an e-commerce website for purchasing clothing. It includes features for adding, editing, and deleting products, updating stock, and checking out items.",
+      "image": "sidemit.png",
+      "tech": "Flask",
+      "url": {
+        "github": "https://github.com/BlutzerZ/S1D3M1T"
+      }
+    },
+    {
+      "title": "Bot Auto Trader",
+      "desc": "Bot Auto Trader is a desktop software designed to automate the opening of BUY/SELL positions on a Web Trading platform.",
+      "image": "bat.png",
+      "tech": "PyQT5, Selenium, FastAPI",
+      "url": {}
+    },
+    {
+      "title": "Youtube Boosting Tools",
+      "desc": "Youtube Boosting Tools is a tools to help you ear more insight, by ads or watch time. Wich can help you to easy monetize your channel",
+      "image": "ytb.png",
+      "tech": "PyQT5, Selenium",
+      "url": {}
+    },
+    {
+      "title": "Dinus PMB Wagtail",
+      "desc": "Dinus PMB Wagtail is a remake of the Dinus PMB website using Wagtail. This site aims to provide prospective students with detailed information about student enrollment at Universitas Dian Nuswantoro.",
+      "image": "dinus-pmb.png",
+      "tech": "Wagtail",
+      "url": {}
+    },
+    {
+      "title": "SiJembar",
+      "desc": "Sijembar is a website for managing laundry services, featuring an accounting ledger integrated into its dashboard for financial management.",
+      "image": "sijembar.png",
+      "tech": "Flask",
+      "url": {
+        "github": "https://github.com/BlutzerZ/LaundryFinanceReport"
+      }
+    },
+    {
+      "title": "Traditional Drink",
+      "desc": "Traditional Drink is an e-commerce website for selling herbal drinks (jamu) that also includes an integrated accounting system.",
+      "image": "trad-drink.png",
+      "tech": "Flask",
+      "url": {
+        "github": "https://github.com/winsnew/Jamu-Web"
+      }
+    },
+    {
+      "title": "Local Coffee (Kopi Cening)",
+      "desc": "Kopi Cening is a website dedicated to marketing Kendal's local specialty coffee, Kopi Cening. It allows for online purchases and includes a product sales management dashboard.",
+      "image": "kopi-cening.png",
+      "tech": "Flask",
+      "url": {
+        "github": "https://github.com/BlutzerZ/KopiCening"
+      }
+    },
+    {
+      "title": "S-DatahealthCare",
+      "desc": "S-DataHealthcare is a website for managing patient medical records. It is designed to allow patients to easily access their medical records across different hospitals.",
+      "image": "s-data-healthcare.png",
+      "tech": "Laravel, Flask(AI Model)",
+      "url": {
+        "github": "https://github.com/aditstywn/SData-HealtCare"
+      }
+    },
+    {
+      "title": "Saweria-like API",
+      "desc": "Saweria-Like is an API designed to closely resemble a donation website for streamers, similar to Saweria.",
+      "image": "saweria-like.png",
+      "tech": "Go, Gin",
+      "url": {
+        "github": "https://github.com/BlutzerZ/sawerya"
+      }
+    },
+    {
+      "title": "Dinus Wordpress Plugin",
+      "desc": "Dinus WP Plugin is a custom WordPress plugin designed specifically to consume APIs from Universitas Dian Nuswantoro.",
+      "image": "wp-plugin.png",
+      "tech": "PHP",
+      "url": {}
+    },
+    {
+      "title": "Dinus BIMA",
+      "desc": "Dinus BIMA is a Student Affairs Bureau website designed to manage various student organizations, where each organization has its own programs.",
+      "image": "dinus-bima.png",
+      "tech": "Django",
+      "url": {
+        "gitlab": "https://gitlab.com/kaqfa/bima_open"
+      }
+    },
+    {
+      "title": "FTP Client",
+      "desc": "FTP-Client is a software designed to connect to FTP servers, similar to FileZilla, with an interface that splits remote storage and local storage for easy file management.",
+      "image": "ftp-client.png",
+      "tech": "JavaFX",
+      "url": {
+        "github": "https://github.com/BlutzerZ/FTPClient"
+      }
+    }
+  ]
+}
