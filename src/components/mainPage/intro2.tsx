@@ -8,7 +8,7 @@ const IntroSecond = () => {
               <div className="flex flex-col gap-1">
                 <p className="text-green-400 text-xl">Web Development</p>
                 <p className="text-gray-400 text-sm">
-                  Create digital product with unique ideas
+                  Create Website with Python, PHP, Go, JS
                 </p>
               </div>
               <p className="text-gray-200 font-bold">10+ Projects</p>
@@ -20,7 +20,7 @@ const IntroSecond = () => {
               <div className="flex flex-col gap-1">
                 <p className="text-green-400 text-xl">Desktop Development</p>
                 <p className="text-gray-400 text-sm">
-                  Create digital product with unique ideas
+                  Create Desktop APP with Python and Java
                 </p>
               </div>
               <p className="text-gray-200 font-bold">5+ Projects</p>

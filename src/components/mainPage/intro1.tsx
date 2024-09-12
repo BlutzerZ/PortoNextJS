@@ -5,7 +5,7 @@ const IntroFirst = () => {
     <section className="px-6 py-4 lg:px-32 lg:py-20">
       <div className="flex flex-col-reverse lg:flex-row lg:justify-between">
         <div className="flex flex-col gap-16">
-          <div className="lg:pl-28">
+          <div className="">
             <span className="py-1 px-4 bg-green-400 text-black rounded-lg text-sm font-bold">
               Full Stack Developer
             </span>
