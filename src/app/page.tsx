@@ -5,6 +5,12 @@ import TechStack from "@/components/mainPage/techstack";
 import Navbar from "@/components/nav";
 import RootLayout from "./layout";
 import Footer from "@/components/footer";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "BlutzerZ",
+  description: "BlutzerZ Portofolio Site",
+};
 
 const Home = () => {
   return (

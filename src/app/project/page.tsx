@@ -2,6 +2,12 @@ import RootLayout from "@/app/layout";
 import Footer from "@/components/footer";
 import Navbar from "@/components/nav";
 import ProjectList from "@/components/project/projectlist";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "BlutzerZ | Project",
+  description: "BlutzerZ Project",
+};
 
 const Home = async () => {
   return (
